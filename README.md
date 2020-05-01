@@ -6,7 +6,7 @@
 ## Table of Contents
 <ul>
 <li><a href="#intro">Introduction</a></li>
-<li><a href="#conclusions">Conclusions</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
 </ul>
 
 
@@ -19,8 +19,8 @@ The dataset was originally sourced from <a href="https://www.kaggle.com/joniarro
 Udacity's version of the dataset (which this analysis has been conducted on) can be downloaded <a href="https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv&sa=D&ust=1513377859161000&usg=AFQjCNELJtHRQ9r28kGlBHv9nIUVIMalkQ" target="_blank">here</a>. 
 
 
-<a id='conclusions'></a>
-## Conclusions
+<a id='conclusion'></a>
+## Conclusion
 
 Nearly 80% of all appointments investigated were no-shows. This number was the root driver of the analysis. The following conclusions were drawn to serve as a basis for a more robust analysis in the future.
 
