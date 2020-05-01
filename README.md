@@ -1,5 +1,5 @@
 
-# Project: Investigation of No-Show Medical Appointments
+# Investigation of No-Show Medical Appointments
 
 > Project submission for Udacity Data Analyst Nano Degree Program
 
