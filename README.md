@@ -48,4 +48,4 @@ _Do appointment no-shows occur on specific days of the week_
 
 * Combining external data sources such as traffic, weather, or geographic data with this dataset could put in light some of the other factors that influence patients to not show up.
 
-* Further analysis of patients with repeat no-shows could also bring in some other information which influence them to repeatedly miss their appointments
+* Further analysis of patients with repeat no-shows could also bring in some other information which influence them to repeatedly miss their appointments.
