@@ -26,19 +26,19 @@ Nearly 80% of all appointments investigated were no-shows. This number was the r
 
 #### Findings and Future recommendations:
 
-_What is the breakdown of no-shows versus shows by patients that received SMS reminders_
+_What is the breakdown of no-shows versus shows by patients that received SMS reminders?_
 
 * Sending an SMS reminder to patients doesn't seem to increase the number of patients showing up for their appointment. But it would be worth performing additional regression analysis to understand how strong this correlation is.
 
-_What is the patient health designation breakdown of no-shows versus shows_
+_What is the patient health designation breakdown of no-shows versus shows?_
 
 * None of the health condition increases or decreases the probability to show up at the appointment time. One reason could be that these health conditions are such that they might sometimes need an urgent care rather than visiting their healthcare provider on a set appointment date in the future.
 
-_Which neighborhoods have the highest number of no-shows_
+_Which neighborhoods have the highest number of no-shows?_
 
 * "JARDIM CAMBURI" neighbourhood had more number of "No-Shows". It would be worth analyzing further on how this neighbourhood is making sure patients turn up for their appointments.
 
-_Do appointment no-shows occur on specific days of the week_
+_Do appointment no-shows occur on specific days of the week?_
 
 * Weekdays had more number of "No-Shows" compared to on weekends, especially during first 3 days of the week. It's difficult to draw any conclusions from this but could be run through a regression analysis to better understand which other show rate influencer day of week correlates with.
 
